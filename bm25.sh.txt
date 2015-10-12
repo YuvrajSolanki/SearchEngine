@@ -1,0 +1,2 @@
+javac BM25_Project.java
+java BM25_Project $1 $2 $3

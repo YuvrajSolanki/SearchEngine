@@ -1,0 +1,3 @@
+javac Indexer.java
+javac IndexerUtilities.java
+java Indexer $1 $2
